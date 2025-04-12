@@ -1,5 +1,5 @@
 
-path: /
+path: ./
 train: images/train/
 val: images/train/train
 nc: 7
