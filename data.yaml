@@ -1,6 +1,6 @@
 
-path: /home/userland/makeup_dataset
-train: images/train/
+path: makeup_dataset
+train: images/train/train
 val: images/train/train
 nc: 7
 names: ['lips', 'left_eye', 'right_eye', 'left_brow', 'right_brow', 'cheeks', 'full_face']
