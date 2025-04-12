@@ -1,5 +1,5 @@
 
-path: makeup_dataset
+path: /
 train: images/train/
 val: images/train/train
 nc: 7
